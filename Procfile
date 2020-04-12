@@ -1,1 +1,1 @@
-web: gunicorn npr_summary:app.py -t 120
+web:gunicorn app.py -t 120
