@@ -10,6 +10,8 @@ flask = "*"
 gensim = "*"
 beautifulsoup4 = "*"
 gunicorn = "*"
+requests = "*"
+
 
 [requires]
 python_version = "3.7"

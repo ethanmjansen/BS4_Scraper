@@ -1,7 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
 from gensim.summarization import summarize
-import textwrap
 
 
 def Article_Summary(news_article, ratio):
