@@ -1,5 +1,0 @@
-flask 
-gensim 
-beautifulsoup4 
-gunicorn 
-requests 
